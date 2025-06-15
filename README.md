@@ -1,5 +1,7 @@
+<small>
 # 💫 About Me:
 # Hi there! 👋 I'm Vishal a Frontend Developer
+</small>small>
 
 
 ## 🌐 Socials:
