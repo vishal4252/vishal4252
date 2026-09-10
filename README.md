@@ -41,26 +41,109 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-3388FF?style=for-the-badge)
 
-### ☁️ Tools & Deployment
+## ☁️ Tools & Deployment
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal4252&show_icons=true&theme=github_dark)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal4252&theme=github-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=vishal4252&show_icons=true&theme=github_dark&hide_border=true&count_private=false" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4252&layout=compact&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal4252&theme=github-dark&hide_border=true" height="180" />
 
+</div>
 
-# 🏆 GitHub Trophies
+<br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vishal4252&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
---- 
-[![](https://visitcount.itsvg.in/api?id=vishal4252&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4252&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/vishal4252?style=for-the-badge&logo=github)
+
+![GitHub stars](https://img.shields.io/github/stars/vishal4252?style=for-the-badge&logo=github)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishal4252&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### Textile Order, Inventory & Workforce Management System
+
+A full-stack enterprise management system designed for textile companies.
+
+**Tech Stack**
+
+- React / Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- RBAC
+- REST APIs
+- Cloudinary
+- Vercel
+
+**Core Modules**
+
+- 🔐 Authentication & Authorization
+- 👥 User & Role Management
+- 🛒 Order Management
+- 📦 Inventory Management
+- 💰 Payment Management
+- 👨‍💼 Workforce Management
+- 📋 Task Assignment
+- 📊 Dashboard & Analytics
+- 📝 Audit Logs
+- 🔔 Notifications
+
+---
+
+## 💻 What I Build
+
+- Full Stack Web Applications
+- REST APIs
+- Authentication & Authorization Systems
+- Role-Based Access Control
+- Admin Dashboards
+- Order Management Systems
+- Inventory Management Systems
+- Workforce Management Systems
+- MongoDB Applications
+- Responsive Frontend Applications
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vishal4252">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+⭐ **Thanks for visiting my profile!**
