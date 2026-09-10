@@ -53,15 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal4252&show_icons=true&theme=github_dark&hide_border=true&count_private=false" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=vishal4252&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4252&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
