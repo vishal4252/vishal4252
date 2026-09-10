@@ -51,21 +51,21 @@
 
 ---
 
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal4252&show_icons=true&theme=github_dark&hide_border=true&count_private=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishal4252&show_icons=true&theme=github_dark&hide_border=true&count_private=false" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal4252&theme=github-dark&hide_border=true" height="180" />
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=vishal4252&theme=github-dark&hide_border=true" />
 
-<br/>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4252&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4252&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -75,62 +75,13 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/vishal4252?style=for-the-badge&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/vishal4252?style=for-the-badge&logo=github)
 
-![GitHub stars](https://img.shields.io/github/stars/vishal4252?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/vishal4252?style=for-the-badge&logo=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal4252&style=for-the-badge)
 
 </div>
-
----
-
-## 🚀 Featured Project
-
-### Textile Order, Inventory & Workforce Management System
-
-A full-stack enterprise management system designed for textile companies.
-
-**Tech Stack**
-
-- React / Next.js
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT Authentication
-- RBAC
-- REST APIs
-- Cloudinary
-- Vercel
-
-**Core Modules**
-
-- 🔐 Authentication & Authorization
-- 👥 User & Role Management
-- 🛒 Order Management
-- 📦 Inventory Management
-- 💰 Payment Management
-- 👨‍💼 Workforce Management
-- 📋 Task Assignment
-- 📊 Dashboard & Analytics
-- 📝 Audit Logs
-- 🔔 Notifications
-
----
-
-## 💻 What I Build
-
-- Full Stack Web Applications
-- REST APIs
-- Authentication & Authorization Systems
-- Role-Based Access Control
-- Admin Dashboards
-- Order Management Systems
-- Inventory Management Systems
-- Workforce Management Systems
-- MongoDB Applications
-- Responsive Frontend Applications
 
 ---
 
