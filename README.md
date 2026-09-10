@@ -44,12 +44,8 @@
 ## ☁️ Tools & Deployment
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
 
 ---
 
@@ -76,9 +72,7 @@
 <div align="center">
 
 ![GitHub Followers](https://img.shields.io/github/followers/vishal4252?style=for-the-badge&logo=github)
-
 ![GitHub Stars](https://img.shields.io/github/stars/vishal4252?style=for-the-badge&logo=github)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal4252&style=for-the-badge)
 
 </div>
